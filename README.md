@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OPA!;Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
-
-<h3 align="center">
-Carlos aqui!
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Carlos+aqui!)](https://git.io/typing-svg)
 
 #### Desenvolvedor Web / Front-end
 
