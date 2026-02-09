@@ -15,7 +15,7 @@
 
 <div>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-red?color=white&logo=linkedin&logoColor=blue"></a>
-<a href = ""><img src="https://img.shields.io/badge/-Gmail-red?color=%23333&logo=gmail&logoColor=white"></a>
+<a href = "devcarlosdamaceno001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?color=%23333&logo=gmail&logoColor=white"></a>
 </div>
 
 ### Tecnologias:
